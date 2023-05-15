@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=andy-bin-cn&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andybin-cdc&count_private=true" />
 
 
 ### Hi 👋,  I’m Andy Bin
